@@ -1,10 +1,9 @@
 
 ## Após realizar o clone do projeto, siga os seguintes passos:
 
+#### Para rodar o Docker:
 
 ##### cd projetodockervue2
-
-Executar o comando: 
 
 * docker-compose up
 
