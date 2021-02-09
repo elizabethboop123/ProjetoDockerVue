@@ -1,5 +1,5 @@
 
-Após realizar o clone do projeto, siga os seguintes passos?
+Após realizar o clone do projeto, siga os seguintes passos:
 
 
 cd projetodockervue2
