@@ -2,7 +2,7 @@
 ## Após realizar o clone do projeto, siga os seguintes passos:
 
 
-### cd projetodockervue2
+##### cd projetodockervue2
 
 Executar o comando: 
 
@@ -10,7 +10,7 @@ Executar o comando:
 
 #### Para rodar o frontend:
 
-### cd frontend
+##### cd frontend
 
 * npm run serve
 
